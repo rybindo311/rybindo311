@@ -24,11 +24,17 @@ Backend-разработчик с фокусом на Python и FastAPI. Стр�
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-323232?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Alembic](https://img.shields.io/badge/-Alembic-000000?style=flat-square&logo=alembic&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Poetry](https://img.shields.io/badge/-Poetry-60A5FA?style=flat-square&logo=poetry&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ### Also familiar / Также знаком
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
+![pybind11](https://img.shields.io/badge/-pybind11-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![STL](https://img.shields.io/badge/-STL-00599C?style=flat-square&logo=c%2b%2b&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
