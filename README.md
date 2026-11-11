@@ -40,6 +40,7 @@ Backend-разработчик с фокусом на Python и FastAPI. Стр�
 | Project | Description | Stack |
 |---------|-------------|-------|
 | **[Family Budget](https://github.com/rybindo311/family_budget)** | Family budget management app with async FastAPI. Dockerized, multi‑env, ready to scale. | FastAPI, SQLAlchemy, PostgreSQL, Docker, Alembic |
+| **[fastbucket](https://github.com/rybindo311/fastbucket)** | Token bucket rate limiter with a C++17 core and pybind11 bindings, plus ASGI middleware and a FastAPI demo service. | C++, CMake, pybind11, FastAPI, pytest | 
 | *More coming soon...* | *Backlog: maybe a game, maybe a bot, maybe something weird* | *Stay tuned* |
 
 
